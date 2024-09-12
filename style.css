@@ -1,0 +1,15 @@
+.app{
+   height:600px;
+}
+.a{
+    padding: 4px;
+    display: inline-block;  
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.a img{
+    height: 180px;
+}
+.a button:hover{
+    cursor: pointer;
+}
